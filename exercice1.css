@@ -1,0 +1,30 @@
+.headerCentered{
+    text-align: center;
+}
+
+.rectangleRouge{
+    background-color: red;
+}
+
+.rectangleVert{
+    background-color: green;
+
+}
+
+.rectangleBleu{
+    background: blue;
+}
+
+.rectangleJaune{
+    background-color: yellow;
+}
+
+.carréNoir{
+    background-color: black;
+}
+
+.tableSize{
+    height: 400px;
+    width: 400px;
+    margin:auto;
+}

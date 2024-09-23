@@ -1,0 +1,20 @@
+.tableIndex{
+    text-align: center;
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 5px;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
+
+.column1Width{
+    width: 150px;
+}
+
+.column2Width{
+    width: 300px;
+}

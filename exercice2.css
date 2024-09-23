@@ -1,0 +1,36 @@
+.backgroundPage::before{
+    content: '';
+    background-image: url(image/campagne.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+.headerFont{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    position: relative;
+}
+
+.table{
+    position: relative;
+    margin: auto;
+    height: 300px;
+    width: 750px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+
+.titreBlanc{
+    color: white;
+}
